@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "version": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "2": "^1.0.2",
+    "Babel": "0.0.1",
+    "babel": "^6.23.0",
+    "es2015": "0.0.0",
+    "preset": "^1.0.0",
+    "register": "0.0.0",
+    "stage": "^0.9.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
+}
